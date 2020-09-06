@@ -1,0 +1,7 @@
+C:\Users\Dinesh\source\repos\PromotionEngineRules\bin\Debug\PromotionEngineRules.exe.config
+C:\Users\Dinesh\source\repos\PromotionEngineRules\bin\Debug\PromotionEngineRules.exe
+C:\Users\Dinesh\source\repos\PromotionEngineRules\bin\Debug\PromotionEngineRules.pdb
+C:\Users\Dinesh\source\repos\PromotionEngineRules\obj\Debug\PromotionEngineRules.csprojAssemblyReference.cache
+C:\Users\Dinesh\source\repos\PromotionEngineRules\obj\Debug\PromotionEngineRules.csproj.CoreCompileInputs.cache
+C:\Users\Dinesh\source\repos\PromotionEngineRules\obj\Debug\PromotionEngineRules.exe
+C:\Users\Dinesh\source\repos\PromotionEngineRules\obj\Debug\PromotionEngineRules.pdb
